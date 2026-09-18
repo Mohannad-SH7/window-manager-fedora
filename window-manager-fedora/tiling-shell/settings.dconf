@@ -1,0 +1,27 @@
+[/]
+active-screen-edges=false
+cycle-layouts=['<Alt>o']
+cycle-layouts-backward=['<Shift><Alt>o']
+edge-tiling-mode='default'
+enable-blur-selected-tilepreview=false
+enable-blur-snap-assistant=false
+enable-snap-assistant-windows-suggestions=true
+enable-window-border=true
+focus-window-down=['']
+focus-window-left=['']
+focus-window-next=['<Alt>s']
+focus-window-prev=['<Alt>a']
+focus-window-right=['']
+focus-window-up=['']
+highlight-current-window=['<Alt>d']
+inner-gaps=uint32 12
+move-window-center=['<Alt>i']
+move-window-down=['<Alt>l']
+move-window-left=['<Alt>j']
+move-window-right=['<Alt>semicolon']
+move-window-up=['<Alt>k']
+quarter-tiling-threshold=uint32 17
+selected-layouts=[['Layout 3'], ['Layout 4'], ['Layout 4']]
+top-edge-maximize=false
+window-border-width=uint32 4
+window-use-custom-border-color=false
