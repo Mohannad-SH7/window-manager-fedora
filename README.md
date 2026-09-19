@@ -43,7 +43,9 @@ The `tiling-shell/settings.dconf` file contains my Tiling Shell settings, includ
 
 The settings are stored using **dconf**.
 
-Don't forget to make this shortcut form the setting Alt+Q --> Quit Window 😃
+Don't forget to create these shortcuts from the settings: 😃
+- Alt+Q --> Quit Window 
+- Alt+Enter --> Open Kitty
 
 ---
 
